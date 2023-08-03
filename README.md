@@ -2,6 +2,7 @@
 IST3134 Big Data - Individual Assignment
 
 Student Name: Ng Siang Yee
+
 Student ID: 20025474
 
 Lecture: Prof Lau Sian Lun
