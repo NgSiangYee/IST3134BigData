@@ -12,3 +12,5 @@ Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 Objective: Comparing the difference between MapReduce and Conventional 
 
 Result: Conventional approach is faster than MapReduce
+
+The code is under MASTER branch: https://github.com/NgSiangYee/IST3134BigData/tree/master
