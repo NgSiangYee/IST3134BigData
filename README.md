@@ -7,7 +7,7 @@ Student ID: 20025474
 
 Lecture: Prof Lau Sian Lun
 
-Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
+Dataset: https://www.kaggle.com/datasets/evanschreiner/netflix-movie-ratings?select=Netflix_User_Ratings.csv
 
 Objective: Comparing the difference between MapReduce and Conventional 
 
